@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtfandresena
+- 👋 Hi, I’m Toky Fandresena
 - 👀 I’m interested in desktop and web application
 - 🌱 I’m currently learning python/django
 - 💞️ I’m looking to collaborate on ...
